@@ -1,0 +1,6 @@
+autogen
+transformers
+torch
+opencv-python
+pymongo
+numpy
